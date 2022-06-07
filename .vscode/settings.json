@@ -1,0 +1,7 @@
+{
+  "nim.project": [
+    "blake3.nim",
+    "std_sha1_shim.nim",
+    "bench.nim"
+  ]
+}
